@@ -30,7 +30,7 @@ The application uses modern NLP techniques and machine learning models to provid
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hr-ai-tools.git
+git clone [https://github.com/yourusername/hr-ai-tools.git](https://github.com/AshishMohanty04/AI-Powered-Resume-Screening-Employee-Sentiment-Analysis.git)
 cd hr-ai-tools
 ```
 
